@@ -1,0 +1,6 @@
+Nome,Cidade,Idade,Curso,Nota,Aprovado,Faixa
+Ana,São Paulo,21,Python,8.5,True,Boa
+Bruno,Osasco,19,Python,7.0,True,Boa
+Carla,São Paulo,22,Web,9.2,True,Excelente
+Diego,Barueri,18,Web,6.8,False,Ruim
+Eva,Osasco,20,Python,9.0,True,Excelente

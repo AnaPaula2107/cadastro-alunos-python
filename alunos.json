@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Ana Paula Maria",
+    "idade": 36,
+    "curso": "Python"
+  },
+  {
+    "nome": "Thiago Salvador",
+    "idade": 32,
+    "curso": "Rede"
+  },
+  {
+    "nome": "Ana Clara Gomes",
+    "idade": 10,
+    "curso": "Ensino médio"
+  },
+  {
+    "nome": "Pedro Bulhões",
+    "idade": 21,
+    "curso": "Administração"
+  },
+  {
+    "nome": "Rosa Maria de Jesus",
+    "idade": 75,
+    "curso": "Rede"
+  },
+  {
+    "nome": "Marcos Vinícius",
+    "idade": 49,
+    "curso": "Redes"
+  }
+]
