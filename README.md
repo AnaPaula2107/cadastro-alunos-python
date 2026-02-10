@@ -1,5 +1,5 @@
 # Sistema de Cadastro de Alunos (Python + Tkinter + JSON)
-### Projeto feito no SENAC SP - Lapa Tito
+Projeto feito no SENAC SP - Lapa Tito
 
 ## Objetivo
 Aplicação desktop para cadastro de alunos com interface gráfica, persistência em JSON e funcionalidades de busca, ordenação e edição.
